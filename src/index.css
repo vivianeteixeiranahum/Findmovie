@@ -1,0 +1,20 @@
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(13, 61, 100);
+}
+
+a {
+  text-decoration: none;
+  color:rgb(252, 252, 252);
+  transition: 0.5s;
+}
+
+a:hover {
+  color: rgb(37, 109, 150);
+}
